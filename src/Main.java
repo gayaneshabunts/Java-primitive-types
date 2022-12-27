@@ -16,9 +16,9 @@ public class Main {
         System.out.println("S=" + S);
         //mas 3
         int d = 123;
-        System.out.println(123 / 100);
-        System.out.println((123 / 10) % 10);
-        System.out.println(123 % 10);
+        System.out.println(d / 100);
+        System.out.println((d / 10) % 10);
+        System.out.println(d % 10);
 
     }
 }
